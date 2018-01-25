@@ -20,3 +20,11 @@ List of small projects I've done
 - [learning-spring](https://github.com/manparvesh/learning-spring)
 - [MissedCallRegistration](https://github.com/manparvesh/MissedCallRegistration)
 - [Python_mini_projects](https://github.com/manparvesh/Python_mini_projects)
+- [GPlusIntegratedAndroidApp](https://github.com/man-archives/GPlusIntegratedAndroidApp)
+- [AndroidWebApp](https://github.com/man-archives/AndroidWebApp)
+- [BandBajaBarat](https://github.com/man-archives/BandBajaBarat)
+- [IITGStudyGroups](https://github.com/man-archives/IITGStudyGroups)
+- [simpleCalculator](https://github.com/man-archives/simpleCalculator)
+- [Soil-Classification](https://github.com/man-archives/Soil-Classification)
+- [SocketProgramming](https://github.com/man-archives/SocketProgramming)
+
