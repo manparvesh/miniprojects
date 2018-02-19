@@ -9,7 +9,8 @@ List of small projects I've done
 - [star](https://github.com/manparvesh/star): A star rating microservice with partial rating support.
 - [fcc-projects](https://github.com/manparvesh/fcc-projects): Project codes for free code camp full stack developer certification
 - [FCC-portfolio](https://github.com/manparvesh/FCC-portfolio): A Personal Portfolio Webpage developed while going through the full stack development certification course.
-- [Competitive-Programming-Templates](https://github.com/manparvesh/Competitive-Programming-Templates): Some useful templates for different programming languages that can help in competitive programming 
+- [Competitive Programming Templates](https://github.com/manparvesh/Competitive-Programming-Templates): Some useful templates for different programming languages that can help in competitive programming 
+- [Competitive Programming Codes](https://github.com/manparvesh/CompetitiveProgrammingCodes): Codes written in competitive programming
 - [testblog](https://github.com/manparvesh/testblog): a demo blog setup for ghost to be used with github pages
 - [lru](https://github.com/manparvesh/lru): Least resently used (LRU) cache implementations 
 - [MissedCallRegistration](https://github.com/manparvesh/MissedCallRegistration): Android application to save the missed call numbers in a person's Google drive. 
