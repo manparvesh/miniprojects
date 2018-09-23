@@ -1,7 +1,7 @@
 # miniprojects
 List of small projects I've done
 
-1. [Photography website](http://photos.manparvesh.com): My photography website :camera:
+1. [Photography website](http://photos.manparvesh.com): My photography website
 1. [udpj](https://github.com/manparvesh/udpj): UDP server implementation in Java
 1. [competitive-helper](https://github.com/manparvesh/competitive-helper): A helper package to help test codes written in competitive programming
 1. [Competitive Programming Templates](https://github.com/manparvesh/Competitive-Programming-Templates): Some useful templates for different programming languages that can help in competitive programming 
